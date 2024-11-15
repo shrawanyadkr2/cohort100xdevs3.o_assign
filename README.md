@@ -1,4 +1,2 @@
-##demo
-this is a readme file
-adding line.
-adding another line to thw file
+# JavaScript
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
